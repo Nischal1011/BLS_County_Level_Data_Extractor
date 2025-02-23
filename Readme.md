@@ -114,4 +114,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Bureau of Labor Statistics for providing the API
 - U.S. Census Bureau for county FIPS codes data
-```
